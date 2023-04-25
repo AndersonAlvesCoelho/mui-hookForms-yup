@@ -1,9 +1,9 @@
 > 💡 Tecnologias utilizadas no projeto: 
 
-<img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB" height="25"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
-<img src="https://img.shields.io/badge/hook--forms-20232A?style=for-the-badge&logo=reacthookform&logoColor=EC5990" height="25"/>
-<img src="https://img.shields.io/badge/Material--UI-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB" height="25"/>
+![JavaScript badge](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB")
+![React badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB")
+![hook badge](https://img.shields.io/badge/hook--forms-20232A?style=for-the-badge&logo=reacthookform&logoColor=EC5990")
+![Material badge](https://img.shields.io/badge/Material--UI-20232A?style=for-the-badge&logo=mui&logoColor=61DAFB")
 
 
 ---
